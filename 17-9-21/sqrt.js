@@ -5,5 +5,5 @@ console.log(ans);
 
 let u1=parseInt(prompt("enter sqrt value:"));
 
-const res=Math.sqrt(u1);
-console.log(res);
+const r=Math.sqrt(u1);
+console.log(r);
